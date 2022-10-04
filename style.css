@@ -1,0 +1,21 @@
+.text-danger {
+    color: rgb(208, 42, 42);
+}
+.text-success {
+    color: rgb(0, 184, 0);
+}
+.text-sm {
+    font-size: small;
+}
+.text-lg {
+    font-size: large;
+}
+.text-xl {
+    font-size: x-large;
+}
+.hide {
+    display: none;
+}
+.show {
+    display: block;
+}
