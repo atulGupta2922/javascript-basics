@@ -19,7 +19,7 @@ console.log(heading3);
 */
 // Class
 
-class Car {
+class Car1 {
     constructor(name, cc, model, make){
         this.name = name;
         this.cc = cc;
@@ -49,7 +49,7 @@ const callJohn = () => {
 
 
 function getNano() {
-    let nano = new Car('Nano', '800', 'vi', 'Tata');
+    let nano = new Car1('Nano', '800', 'vi', 'Tata');
     console.log(nano);
 }
 
@@ -88,8 +88,3 @@ const showTime = () => {
     // setTimeout(() => {
     // }, 3000);
 }
-
-// OOP concepts
-
-
-
